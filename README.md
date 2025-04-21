@@ -1,6 +1,6 @@
 # ID_TEST
 
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=pythont&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white"/>
 
 
 
